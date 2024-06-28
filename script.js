@@ -1,1 +1,3 @@
-alert("My name is TonyStark");
+window.addEventListener("load", () => {
+  alert("My name is TonyStark");
+});
